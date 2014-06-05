@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.1
+Type=Application
+Terminal=false
+Name=tvnplayer
+Exec=/usr/bin/invoker --type=d -s /opt/tvnplayer/bin/tvnplayer
+Icon=/usr/share/icons/hicolor/80x80/apps/tvnplayer80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
